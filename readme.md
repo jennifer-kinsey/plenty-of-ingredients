@@ -6,7 +6,7 @@ This webpage was built using HTML, CSS, Bootstrap, JavaScript, jQuery, and icons
 
 ## Getting Started
 
-There are at least two ways of accessing the website. First and easiest is to follow the link https://spenceralan.github.io/plenty-of-ingredients/. Second is to clone this repository onto your machine and open the index.html file in your web browser.
+There are at least two ways of accessing the website. First and easiest is to follow the link https://jennifer-kinsey.github.io/plenty-of-ingredients/. Second is to clone this repository onto your machine and open the index.html file in your web browser.
 
 ### Prerequisites
 
@@ -16,7 +16,7 @@ Examples: Chrome, Safari
 
 ### Installing
 
-Installation is quick and easy! Either open this link https://spenceralan.github.io/plenty-of-ingredients/ to see the webpage in action or clone this repository to your machine and open the index.html file!
+Installation is quick and easy! Either open this link https://jennifer-kinsey.github.io/plenty-of-ingredients/ to see the webpage in action or clone this repository to your machine and open the index.html file!
 
 ## Built With
 
